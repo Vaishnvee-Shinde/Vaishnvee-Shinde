@@ -5,7 +5,7 @@
 - 👀 I’m interested in web & App Development
  - currently Computer Science Student
 - 💞️ I’m looking to collaborate on 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnvee-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnvee-shinde" /> </p>
 

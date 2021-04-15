@@ -1,5 +1,7 @@
-<img src="https://github.com/Vaishnvee-Shinde/Vaishnvee-Shinde.github.io/blob/master/images/bio1.png" width="500px" align="right"><br><br><br>
-
+<img src="https://github.com/Vaishnvee-Shinde/Vaishnvee-Shinde.github.io/blob/master/images/bio1.png" width="500px" align="right">
+<br>
+<br>
+<br>
 <h3 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Welcome To My DOM !!</h3> <br>
 
  I’m @Vaishnvee-Shinde

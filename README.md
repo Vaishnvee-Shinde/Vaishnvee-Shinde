@@ -1,10 +1,10 @@
 <img src="https://github.com/Vaishnvee-Shinde/Vaishnvee-Shinde.github.io/blob/master/images/bio1.png" width="2000px" align="right">
 
-<h3 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Welcome to my DOM !!</h3> <br>
+<h3 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Welcome To My DOM !!</h3> <br>
 
  I’m @Vaishnvee-Shinde
 - 👀 I’m interested in web & App Development
- - currently Computer Science Student
+- 👩‍💻 Currently Computer Science Student
 - 💞️ I’m looking to collaborate on 
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 

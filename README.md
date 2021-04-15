@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<h3 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Welcome To My DOM !!</h3> <br>
+<h2 align="center"> Hey  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Welcome To My DOM !!</h2> <br>
 
  I’m @Vaishnvee-Shinde
 - 👀 I’m interested in web & App Development

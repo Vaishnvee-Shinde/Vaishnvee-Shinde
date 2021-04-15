@@ -4,10 +4,11 @@
 <br>
 <h2 align="center"> Hey  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Welcome To My DOM !!</h2> <br>
 
+ <h2 align="center"> While ( ! ( Succeed = try())); </h2>  
  I’m @Vaishnvee-Shinde
 - 👀 I’m interested in web & App Development
 - 👩‍💻 Currently Computer Science Student
-- 💞️ While ( ! ( Succeed = try())); 
+
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnvee-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnvee-shinde" /> </p>

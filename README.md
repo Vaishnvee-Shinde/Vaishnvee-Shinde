@@ -2,7 +2,8 @@ Hey 👋
  
  I’m @Vaishnvee-Shinde
 - 👀 I’m interested in web & App Development
-- 🌱 I’m currently learning JavaDcript
+- ![image](https://user-images.githubusercontent.com/65480790/114814544-035c3680-9dd2-11eb-9d73-07db06f6d7d3.png)
+ currently Computer Science Student
 - 💞️ I’m looking to collaborate on 
 
 <!---

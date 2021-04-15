@@ -3,9 +3,8 @@
 <br>
 <br>
 <h2 align="center"> Hey  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Welcome To My DOM !!</h2> <br>
-
- <h2 align="center"> While ( ! ( Succeed = try())); </h2>  
- I’m @Vaishnvee-Shinde
+<h2 align="center"> While ( ! ( Succeed = try())); </h2>  
+I’m @Vaishnvee-Shinde
 - 👀 I’m interested in web & App Development
 - 👩‍💻 Currently Computer Science Student
 

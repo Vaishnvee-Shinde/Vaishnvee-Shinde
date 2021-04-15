@@ -5,16 +5,15 @@
 - 👀 I’m interested in web & App Development
  - currently Computer Science Student
 - 💞️ I’m looking to collaborate on 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>"/>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnvee-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnvee-shinde" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vaish1804" target="blank"><img src="https://img.shields.io/twitter/follow/vaish1804?logo=twitter&style=for-the-badge" alt="vaish1804" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@vaisha1804" target="blank"><img src="https://img.shields.io/twitter/follow/@vaisha1804?logo=twitter&style=for-the-badge" alt="@vaisha1804" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vaish1804" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vaish1804" height="30" width="40" /></a>
+<a href="https://twitter.com/@vaisha1804" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@vaisha1804" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaishnvee shinde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vaishnvee shinde" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@vaishnvee169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@vaishnvee169" height="30" width="40" /></a>
 </p>

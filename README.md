@@ -1,9 +1,8 @@
-Hey 👋 
- 
- Welcome to my DOM !!
+Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Welcome to my DOM !!
+
  I’m @Vaishnvee-Shinde
 - 👀 I’m interested in web & App Development
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> currently Computer Science Student
+ - currently Computer Science Student
 - 💞️ I’m looking to collaborate on 
 
 <!---

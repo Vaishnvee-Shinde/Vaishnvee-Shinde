@@ -1,4 +1,4 @@
-<img src="https://github.com/Vaishnvee-Shinde/Vaishnvee-Shinde.github.io/blob/master/images/bio2.png" width="900px" align="right">
+<img src="https://github.com/Vaishnvee-Shinde/Vaishnvee-Shinde.github.io/blob/master/images/bio2.png" width="840px" align="right">
 <br>
 <br>
 <br>

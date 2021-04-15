@@ -1,6 +1,6 @@
 
-#Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
-     <img src="https://github.com/Vaishnvee-Shinde/Vaishnvee-Shinde.github.io/blob/master/images/PicsArt_04-15-10.22.55.png" width="110px" align="center">Welcome to my DOM !!
+<h3 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Welcome to my DOM !!</h3> 
+     <img src="https://github.com/Vaishnvee-Shinde/Vaishnvee-Shinde.github.io/blob/master/images/PicsArt_04-15-10.22.55.png" width="110px" align="center">
 
  I’m @Vaishnvee-Shinde
 - 👀 I’m interested in web & App Development

@@ -1,5 +1,6 @@
 
 #Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Welcome to my DOM !!
+     <img src="https://github.com/Vaishnvee-Shinde/Vaishnvee-Shinde.github.io/blob/master/images/PicsArt_04-15-10.22.55.png" width="90px">
 
  I’m @Vaishnvee-Shinde
 - 👀 I’m interested in web & App Development

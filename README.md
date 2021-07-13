@@ -14,7 +14,7 @@ I’m @Vaishnvee-Shinde
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnvee-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnvee-shinde" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vaisha1804" target="blank"><img src="https://img.shields.io/twitter/follow/vaisha1804?logo=twitter&style=for-the-badge" alt="vaisha1804" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Vaish_Shinde" target="blank"><img src="https://img.shields.io/twitter/follow/vaisha1804?logo=twitter&style=for-the-badge" alt="vaisha1804" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -12,6 +12,8 @@ I’m @Vaishnvee-Shinde
 
 <h3 align="center">A Passionate Developer From India</h3>
 
+[![@vaishnveeshinde's Holopin board](https://holopin.me/vaishnveeshinde)](https://holopin.io/@vaishnveeshinde)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnvee-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnvee-shinde" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Vaish_Shinde" target="blank"><img src="https://img.shields.io/twitter/follow/Vaish_Shinde?logo=twitter&style=for-the-badge" alt="Vaish_Shinde" /></a> </p>

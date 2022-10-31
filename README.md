@@ -12,7 +12,7 @@ I’m @Vaishnvee-Shinde
 
 <h3 align="center">A Passionate Developer From India</h3>
 
-[![@vaishnveeshinde's Holopin board](https://holopin.me/vaishnveeshinde)](https://holopin.io/@vaishnveeshinde)
+[![@vaishnveeshinde's Holopin board](https://holopin.me/vaishnveeshinde)](https://www.holopin.io/@vaishnveeshinde)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnvee-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnvee-shinde" /> </p>
 
